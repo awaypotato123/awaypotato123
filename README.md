@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Riyadh Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-18655255">
+
+![coding](https://github.com/awaypotato123/awaypotato123/assets/93114404/da731450-fa84-4f37-bdf9-8615b8dc2dfd)
+
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths)
 
