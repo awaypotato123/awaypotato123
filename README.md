@@ -6,7 +6,7 @@ Web Developer
 
 * 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths)
 * 🌱 I’m currently learning Java, JavaScript, React, SQL
-* ⚡ Fun fact I am passionate about nutrition and a healthy lifestyle.
+* ⚡ Fun fact -  I am passionate about nutrition and a healthy lifestyle.
 
 ### Skills
 
