@@ -1,3 +1,7 @@
+
+![giphy](https://github.com/awaypotato123/awaypotato123/assets/93114404/99b97fdf-f1f0-4fdd-b1b5-c7c1803fe075)
+
+
 # 💫 About Me:
 🔭 I’m currently working on the Odin Project<br>🌱 I’m currently learning Java, JavaScript, React, Angular and SQL<br>💬 Ask me about JavaScript, React<br>⚡ Fun fact - I am passionate about nutrition and a healthy lifestyle. <br>
 
