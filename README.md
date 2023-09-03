@@ -4,8 +4,6 @@
 <h3 align="center">A passionate frontend developer from Canada</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths)
 
 - 🌱 I’m currently learning **Java, JavaScript, React, SQL**
