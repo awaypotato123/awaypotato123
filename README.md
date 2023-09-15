@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/paths)
 
-- 🌱 I’m currently learning ** C#,Java, JavaScript, React, Express, node.js, MongoDB, SQL**
+- 🌱 I’m currently learning C#,Java, JavaScript, React, Express, node.js, MongoDB, SQL
 
 - 💬 Ask me about **JavaScript, React**
 
